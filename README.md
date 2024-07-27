@@ -1,0 +1,1 @@
+# NQ-Futures-CounterTrend-Analysis
